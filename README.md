@@ -31,21 +31,15 @@
   <h2>Best frameworks and main libraries for Python3:</h2>
 <table>
   <tr>
-    <th>Library</th>
-    <th>Icon</th>
-    <th>Icon</th>
-    <th>Icon</th>
-    <th>Icon</th>
-  </tr>
-  <tr>
-    <td>NumPy</td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /></td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /></td>
+<td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
+<td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
+<td><br><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /></td>
+<td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /></td>
   </tr>
 </table>
-
+td img {
+  padding: 5px; /* Adiciona um espaçamento de 5 pixels entre os ícones */
+}
 <h2>My tools for Data Manipulation:</h2>
 <table>
   <tr>
