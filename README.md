@@ -52,21 +52,22 @@
     </tr>
   </table>
 
-  <h2>My tools for Data Manipulation:</h2>
-  <table>
-    <tr>
-      <th>Tool</th>
-      <th>Icon</th>
-    </tr>
-    <tr>
-      <td>Jupyter</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /></td>
-    </tr>
-    <tr>
-      <td>MySQL</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></td>
-    </tr>
-    <tr>
-      <td>PostgreSQL</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
-    </tr>
+<h2>My tools for Data Manipulation:</h2>
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Icon</th>
+  </tr>
+  <tr>
+    <td>Jupyter</td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /></td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></td>
+  </tr>
+  <tr>
+    <td>PostgreSQL</td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
+  </tr>
+</table>
