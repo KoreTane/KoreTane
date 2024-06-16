@@ -8,7 +8,6 @@
 <table>
     <tr>
     <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
   </tr>
 <table>
   <h2>Best frameworks and main libraries for Python3:</h2>
@@ -35,6 +34,6 @@
 <h2>Environments, Testing, Other:</h2>
 <table>
   <tr>
-    <td><img width='50' height='50' src="path/to/virtualbox_icon.png" alt="VirtualBox Icon" /></td>
+    <td><img width='50' height='50' src="png-computer-icons-virtualbox-clip-art-2468462/" alt="VirtualBox Icon" /></td>
   </tr>
 </table>
