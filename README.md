@@ -35,6 +35,6 @@
 <h2>Environments, Testing, Other:</h2>
 <table>
   <tr>
-    <td><img width='50' height='50' src="path/to/virtualbox_icon.png" alt="VirtualBox Icon"/></td>
+    <td><img width='50' height='50' src="path/to/virtualbox_icon.png" alt="VirtualBox Icon" /></td>
   </tr>
 </table>
