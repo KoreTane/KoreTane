@@ -34,6 +34,6 @@
 <h2>Environments, Testing, Other:</h2>
 <table>
   <tr>
-    <td><img width='50' height='50' src="20180527/gsi/kisspng-computer-icons-virtualbox-clip-art-5b0a37f69af7a8.8870443015273963426348.jpg" /></td>
+    <td><img width='50' height='50' src="banner2.cleanpng.com/20180527/gsi/kisspng-computer-icons-virtualbox-clip-art-5b0a37f69af7a8.8870443015273963426348.jpg" /></td>
   </tr>
 </table>
