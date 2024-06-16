@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-      <a href="https://www.python.org/">Python</a>
+      <a href="https://www.python.org/"</a>
     </td>
   </tr>
 </table>
