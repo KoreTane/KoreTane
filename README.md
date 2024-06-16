@@ -17,18 +17,15 @@
   <p>As a data enthusiast, I am currently specializing in data science and starting a postgraduate program in data engineering. With a strong foundation in necessary tools and basic statistics, I am eager to expand my skills and knowledge in the field of data analysis. My goal is to become a proficient data scientist, able to extract valuable insights from complex data sets and present them in a clear and actionable manner.</p>
 
   <h2>Languages:</h2>
-  <table>
+  
+<table>
     <tr>
-      <th>Language</th>
-      <th>Icon</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></td>
-    </tr>
-  </table>
-
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
+  </tr>
+<table>
   <h2>Best frameworks and main libraries for Python3:</h2>
+
 <table>
     <tr>
     <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
