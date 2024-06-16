@@ -29,28 +29,22 @@
   </table>
 
   <h2>Best frameworks and main libraries for Python3:</h2>
-  <table>
-    <tr>
-      <th>Library</th>
-      <th>Icon</th>
-    </tr>
-    <tr>
-      <td>NumPy</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
-    </tr>
-    <tr>
-      <td>Pandas</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
-    </tr>
-    <tr>
-      <td>Scikit-Learn</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /></td>
-    </tr>
-    <tr>
-      <td>Matplotlib</td>
-      <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <th>Library</th>
+    <th>Icon</th>
+    <th>Icon</th>
+    <th>Icon</th>
+    <th>Icon</th>
+  </tr>
+  <tr>
+    <td>NumPy</td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /></td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /></td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /></td>
+    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /></td>
+  </tr>
+</table>
 
 <h2>My tools for Data Manipulation:</h2>
 <table>
