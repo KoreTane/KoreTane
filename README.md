@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Perfil de [Seu Nome]</title>
-  <style>
-    table {
-      border-collapse: collapse;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-    }
-  </style>
 </head>
 <body>
   <h1>Hi there 👋</h1>
