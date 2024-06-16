@@ -6,9 +6,7 @@
 <h2>Languages:</h2>
 <table>
   <tr>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-      <a href="https://www.python.org/"</a>
-    </td>
+    <td><a href="https://www.python.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a></td>
   </tr>
 </table>
 
@@ -16,44 +14,28 @@
 
 <table>
   <tr>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-      <a href="https://numpy.org/">NumPy</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-      <a href="https://pandas.pydata.org/">Pandas</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-      <a href="https://scikit-learn.org/">Scikit-Learn</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-      <a href="https://matplotlib.org/">Matplotlib</a>
-    </td>
+    <td><a href="https://numpy.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"></a></td>
+    <td><a href="https://pandas.pydata.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"></a></td>
+    <td><a href="https://scikit-learn.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"></a></td>
+    <td><a href="https://matplotlib.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"></a></td>
   </tr>
 </table>
 
 <h2>My tools for Data Manipulation:</h2>
+
 <table>
   <tr>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-      <a href="https://jupyter.org/">Jupyter</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-      <a href="https://www.mysql.com/">MySQL</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-      <a href="https://www.postgresql.org/">PostgreSQL</a>
-    </td>
-    <td><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-      <a href="https://nodejs.org/">Node.js</a>
-    </td>
+    <td><a href="https://jupyter.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"></a></td>
+    <td><a href="https://www.mysql.com/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a></td>
+    <td><a href="https://www.postgresql.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></a></td>
+    <td><a href="https://nodejs.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a></td>
   </tr>
 </table>
 
 <h2>Environments, Testing, Other:</h2>
+
 <table>
   <tr>
-    <td><img width='50' height='50' src="https://banner2.cleanpng.com/20180527/gsi/kisspng-computer-icons-virtualbox-clip-art-5b0a37f69af7a8.8870443015273963426348.jpg" />
-      <a href="https://www.virtualbox.org/">VirtualBox</a>
-    </td>
+    <td><a href="https://www.virtualbox.org/"><img width='50' height='50' src="https://banner2.cleanpng.com/20180527/gsi/kisspng-computer-icons-virtualbox-clip-art-5b0a37f69af7a8.8870443015273963426348.jpg"></a></td>
   </tr>
 </table>
