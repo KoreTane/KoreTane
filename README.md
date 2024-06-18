@@ -10,7 +10,7 @@
     <td><a href="https://www.python.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a></td>
     <td><a href="https://html.com/attributes/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"></a></td>
   </tr>
-
+</table>
 <h2>Best frameworks and main libraries for Python3:</h2>
 
 <table>
