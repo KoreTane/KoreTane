@@ -8,8 +8,8 @@
 <table>
   <tr>
     <td><a href="https://www.python.org/"><img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></a></td>
+    <td><a href="https://www.python.org/"><img width='50' height='50' src="https://icons8.com.br/icon/CMVEhOBzk3Zp/html-5"></a></td>html
   </tr>
-</table>
 
 <h2>Best frameworks and main libraries for Python3:</h2>
 
