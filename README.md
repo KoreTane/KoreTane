@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<h2>My tools for Data Manipulation:</h2>
+<h2>My tools for Data Manipulation;</h2>
 
 <table>
   <tr>
