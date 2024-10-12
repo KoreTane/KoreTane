@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8">
-    <title>Meu Perfil</title>
+ 
 </head>
 <body>
 
@@ -39,6 +39,7 @@
 
 <h2>Big Data and Spark Expertise:</h2>
 <p>Possuo experiência prática em desenvolvimento de soluções em Big Data utilizando <strong>Apache Spark</strong>, especialmente com PySpark para processamento de grandes volumes de dados. Transformei arquivos em formato Parquet para otimizar o armazenamento e melhorar a eficiência na leitura e processamento.</p>
+<img width='100' height='100' src="https://www.esic.edu/sites/default/files/rethink/9b7e1b03-spark_0.png" alt="Apache Spark Logo">
 
 <h2>Environments, Testing, Other:</h2>
 <table>
